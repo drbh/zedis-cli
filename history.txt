@@ -1,0 +1,18 @@
+keys
+get y
+keys
+get y
+set alpha beta
+get alpha
+keys
+pre pub
+get public:david:foo
+set public:david:foo pink
+get public:david:foo
+flush
+clear
+keys
+set david holtz
+get david
+keys
+get david
